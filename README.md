@@ -35,7 +35,7 @@ tripzy-travel-website/
 ---
 
 ## 🚀 Live Demo
-👉 :https://lnkd.in/gMGFpZUQ
+👉https://aanchal1206.github.io/tripzy-travel-website/
 
 ---
 
